@@ -61,7 +61,3 @@ Welcome to the **Job Portal Website**, a full-stack web application designed for
 4. Open your browser and go to `http://127.0.0.1:8000/`
 
 ---
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
